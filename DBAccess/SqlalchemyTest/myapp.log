@@ -1,0 +1,18 @@
+Thu, 10 Dec 2015 19:32:14 MyLogger.py[line:54] INFO MyLogger Initialized
+Thu, 10 Dec 2015 19:32:14 MySQLAccess.py[line:28] INFO Initialize Connection Success
+Thu, 10 Dec 2015 19:38:30 MyLogger.py[line:54] INFO MyLogger Initialized
+Thu, 10 Dec 2015 19:38:30 MySQLAccess.py[line:28] INFO Initialize Connection Success
+Thu, 10 Dec 2015 19:38:49 MyLogger.py[line:54] INFO MyLogger Initialized
+Thu, 10 Dec 2015 19:38:49 MySQLAccess.py[line:28] INFO Initialize Connection Success
+Thu, 10 Dec 2015 19:38:49 MyLogger.py[line:54] INFO tabel user created
+Thu, 10 Dec 2015 19:38:49 MyLogger.py[line:54] INFO insert 1 record(s)
+Thu, 10 Dec 2015 19:39:10 MyLogger.py[line:54] INFO MyLogger Initialized
+Thu, 10 Dec 2015 19:39:11 MySQLAccess.py[line:28] INFO Initialize Connection Success
+Thu, 10 Dec 2015 19:39:56 MyLogger.py[line:54] INFO MyLogger Initialized
+Thu, 10 Dec 2015 19:39:56 MySQLAccess.py[line:28] INFO Initialize Connection Success
+Thu, 10 Dec 2015 19:48:00 MyLogger.py[line:54] INFO MyLogger Initialized
+Thu, 10 Dec 2015 19:48:00 MySQLAccess.py[line:28] INFO Initialize Connection Success
+Thu, 10 Dec 2015 19:49:54 MyLogger.py[line:54] INFO MyLogger Initialized
+Thu, 10 Dec 2015 19:49:54 MySQLAccess.py[line:28] INFO Initialize Connection Success
+Thu, 10 Dec 2015 19:50:55 MyLogger.py[line:54] INFO MyLogger Initialized
+Thu, 10 Dec 2015 19:50:55 MySQLAccess.py[line:28] INFO Initialize Connection Success

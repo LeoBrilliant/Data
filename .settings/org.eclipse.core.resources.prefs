@@ -6,6 +6,7 @@ encoding//DBAccess/MySQLdb/Insert.py=utf-8
 encoding//DBAccess/MySQLdb/MySQLAccess.py=utf-8
 encoding//DBAccess/MySQLdb/Select.py=utf-8
 encoding//DBAccess/MySQLdb/Update.py=utf-8
+encoding//DBAccess/SqlalchemyTest/SqlalchemyTest.py=utf-8
 encoding//Loader/TuShare/BaseDataLoader.py=utf-8
 encoding//Loader/TuShare/Fundamental/StockBasics.py=utf-8
 encoding//Loader/TuShare/TradingData/HisMarketData.py=utf-8
