@@ -39,5 +39,17 @@ if __name__ == "__main__":
     
     c = copy.copy(a)
     d = copy.deepcopy(a)
+    a.SetAge(7)
+    b.SetAge(12)
+    c.SetAge(15)
+    d.SetAge(18)
+    a.SetWorkExp("PrimarySchool", 1996)
+    b.SetWorkExp("MidSchool", 2001)
+    c.SetWorkExp("HighSchool", 2004)
+    d.SetWorkExp("University", 2007)
     
+    a.Display()
+    b.Display()
+    c.Display()
+    d.Display()
     
