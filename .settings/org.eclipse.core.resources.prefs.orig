@@ -6,17 +6,34 @@ encoding//DBAccess/MySQLdb/Insert.py=utf-8
 encoding//DBAccess/MySQLdb/MySQLAccess.py=utf-8
 encoding//DBAccess/MySQLdb/Select.py=utf-8
 encoding//DBAccess/MySQLdb/Update.py=utf-8
+encoding//DBAccess/SqlalchemyTest/SqlalchemyTest.py=utf-8encoding//Loader/TuShare/BaseDataLoader.py\=utf-8
 <<<<<<< HEAD
-encoding//DBAccess/SqlalchemyTest/SqlalchemyTest.py=utf-8
 =======
+encoding//DesignPattern/AbstractFactory.py=utf-8
+encoding//DesignPattern/Adapter.py=utf-8
+encoding//DesignPattern/Bridge.py=utf-8
+encoding//DesignPattern/Builder.py=utf-8
+encoding//DesignPattern/ChainOfResponsibility.py=utf-8
+encoding//DesignPattern/Command.py=utf-8
+encoding//DesignPattern/Composite.py=utf-8
+>>>>>>> branch 'master' of https://github.com/LeoBrilliant/Data
 encoding//DesignPattern/Decorator.py=utf-8
+encoding//DesignPattern/Facade.py=utf-8
 encoding//DesignPattern/FactoryMethod.py=utf-8
+encoding//DesignPattern/Iterator.py=utf-8
+encoding//DesignPattern/Memento.py=utf-8
+encoding//DesignPattern/Observer.py=utf-8
 encoding//DesignPattern/Prototype.py=utf-8
 encoding//DesignPattern/Proxy.py=utf-8
 encoding//DesignPattern/SimpleFactory.py=utf-8
+encoding//DesignPattern/Singleton.py=utf-8
+encoding//DesignPattern/SingletonMetaclass.py=utf-8
+encoding//DesignPattern/State.py=utf-8
 encoding//DesignPattern/Strategy.py=utf-8
->>>>>>> 967a0d7e769657528615f025e8a8933c3994365c
-encoding//Loader/TuShare/BaseDataLoader.py=utf-8
+<<<<<<< HEAD
+encoding//DesignPattern/TemplateMethod.py=utf-8
+=======
+>>>>>>> branch 'master' of https://github.com/LeoBrilliant/Data
 encoding//Loader/TuShare/Fundamental/StockBasics.py=utf-8
 encoding//Loader/TuShare/TradingData/HisMarketData.py=utf-8
 encoding//Loader/TuShare/TradingData/HisTickData.py=utf-8
@@ -31,12 +48,9 @@ encoding//SeleniumPrac/Test1.py=utf-8
 encoding//TestPractice/NoseTest.py=utf-8
 encoding//TestPractice/TestData.py=utf-8
 encoding//TestPractice/TestSequenceFunctions.py=utf-8
-<<<<<<< HEAD
-=======
 encoding//Tutorial/D1.py=utf-8
 encoding//Tutorial/ThreadTest.py=utf-8
 encoding//Tutorial/ThreadingTest.py=utf-8
->>>>>>> 967a0d7e769657528615f025e8a8933c3994365c
 encoding//bbsdmoz/items.py=utf-8
 encoding//bbsdmoz/pipelines.py=utf-8
 encoding//bbsdmoz/settings.py=utf-8
