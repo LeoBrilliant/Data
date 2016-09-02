@@ -43,6 +43,7 @@ encoding//Loader/TuShare/TradingData/TodayTicks.py=utf-8
 encoding//Logger/MyLogger.py=utf-8
 encoding//MultiProcessing/ManagersAndProxies.py=UTF-8
 encoding//MultiProcessing/PoolExample.py=UTF-8
+encoding//MultiProcessing/Pool_1.py=utf-8
 encoding//Program/ExcelTest.py=UTF-8
 encoding//Program/PlotTest.py=UTF-8
 encoding//Scheduler/cronJobTest.py=utf-8
